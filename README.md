@@ -15,6 +15,7 @@ https://Bryce-Fryman.github.io/rrg/
 
 ## JPEG of map
 ![Red River Gorge Arches](Layout1.jpg) Red River Gorge Arches
+<<<<<<< HEAD
 
 
 ## Birds eye view of Grays Arch
